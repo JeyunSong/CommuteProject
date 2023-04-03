@@ -7,16 +7,8 @@
 
 # 📰 Information
  
- ### 신입 온보딩으로 진행하는 '근태 관리 시스템' 파일럿 프로젝트입니다.
- #### 하단에 명시된 기능 외 유효성 체크, 테이블 설계, 추가 기능 및 상세 기획은 프로젝트 개발자 본인의 역량에 맡깁니다. </br></br>
-
-  - 회원가입 / 로그인 ( + OAuth2 )
-  - 출퇴근 체크 ( + Slack Alert )
-  - 일일, 주간, 월간 평균 근무시간 통계 조회
-  - 부서원 등급 변경 API
-  - 매일 아침, 전날 기준 소속 부서원의 출퇴근 기록 리포트를 팀장 메일로 전달
-  </br></br></br>
-
+ ### 간단한 출퇴근 기록 시스템 입니다.
+ 
 
 # 📌 Posting
   
@@ -34,11 +26,7 @@
  - MySQL 8.0.28
 </br></br></br>
 
-# API Doc
 
-✔ [CommuteBot API Link !]( https://documenter.getpostman.com/view/26217810/2s93RNzv5Y#2824b98b-7bb1-4567-811c-e331eb18ddbe/ )<br>
-
-</br></br></br>
 # SCHEMA
 <details>
 <summary><strong> OPEN </strong></summary>
