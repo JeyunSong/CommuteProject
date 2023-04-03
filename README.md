@@ -1,5 +1,4 @@
 # CommuteBot
-[ 백엔드 신입 온보딩 ]  출퇴근 관리 시스템 
 
 ![image](https://user-images.githubusercontent.com/112923814/228393129-1129ab5d-fd14-4eb6-97d0-494a00849b99.png)
 </br> </br> </br> </br>
